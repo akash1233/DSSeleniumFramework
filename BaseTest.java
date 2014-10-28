@@ -17,7 +17,7 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.remote.Response;
 import org.openqa.selenium.WebDriverException;
 
-public class LocalWebDriver  {
+public class BaseTest  {
 	
 	//Set constants
 	private HttpCommandExecutor executor = null;
